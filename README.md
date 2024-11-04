@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 [![Followers](https://badgen.org/img/bluesky/junxd.bsky.social/followers?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
 [![Posts](https://badgen.org/img/bluesky/junxd.bsky.social/posts?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
 [![Scraps](https://badgen.org/img/zenn/junxd/scraps?style=plastic)](https://zenn.dev/junxd?tab=scraps)
-<p align="left">
-  <a href="https://github.com/PlasmaXD">
-    <img height="20" src="https://komarev.com/ghpvc/?username=PlasmaXD" />
-  </a>
-  <a href="https://github.com/PlasmaXD">
-    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlasmaXD&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlasmaXD&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlasmaXD&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlasmaXD&theme=default)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlasmaXD&theme=default&utcOffset=8)
