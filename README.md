@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 [![Scraps](https://badgen.org/img/zenn/junxd/scraps?style=plastic)](https://zenn.dev/junxd?tab=scraps)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlasmaXD&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlasmaXD&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlasmaXD&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlasmaXD&theme=default)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlasmaXD&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlasmaXD&theme=default) |
+|---|---|
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlasmaXD&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlasmaXD&theme=default)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlasmaXD&theme=default&utcOffset=8)|
+|---|---|
