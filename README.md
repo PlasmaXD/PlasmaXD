@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rating](https://badgen.org/img/atcoder/junxc/rating/algorithm?style=plastic)](https://atcoder.jp/users/junxc?contestType=algo)
 [![Followers](https://badgen.org/img/bluesky/junxd.bsky.social/followers?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
 [![Posts](https://badgen.org/img/bluesky/junxd.bsky.social/posts?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
 [![Scraps](https://badgen.org/img/zenn/junxd/scraps?style=plastic)](https://zenn.dev/junxd?tab=scraps)
