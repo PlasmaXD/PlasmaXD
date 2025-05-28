@@ -28,6 +28,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
+![PlasmaXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlasmaXD&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlasmaXD&layout=compact&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PlasmaXD&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 -->
 [![Followers](https://badgen.org/img/bluesky/junxd.bsky.social/followers?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
@@ -41,10 +44,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlasmaXD&theme=default)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlasmaXD&theme=default&utcOffset=8)|
 |---|---|
 
-
-
-
----
-![PlasmaXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlasmaXD&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlasmaXD&layout=compact&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=PlasmaXD&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
