@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Posts](https://badgen.org/img/bluesky/junxd.bsky.social/posts?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
+
 -->
 [![Followers](https://badgen.org/img/bluesky/junxd.bsky.social/followers?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
-[![Posts](https://badgen.org/img/bluesky/junxd.bsky.social/posts?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
 [![Scraps](https://badgen.org/img/zenn/junxd/scraps?style=plastic)](https://zenn.dev/junxd?tab=scraps)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlasmaXD&theme=default)
