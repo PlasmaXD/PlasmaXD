@@ -1,4 +1,3 @@
-## プロフィール 
 
 <!--
 **PlasmaXD/PlasmaXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,3 +47,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=PlasmaXD&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PlasmaXD&theme=cobalt&date_format=j%20M%20Y)
 ![Profile Views](https://komarev.com/ghpvc/?username=PlasmaXD&style=flat-square)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=PlasmaXD&theme=react-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=PlasmaXD&style=flat-square)
+![Spotify](https://spotify-readme.vercel.app/api/spotify?uid=あなたのUID&cover_image=true&background_color=121212&accent_color=1DB954)
