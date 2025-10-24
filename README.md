@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -->
 [![Followers](https://badgen.org/img/bluesky/junxd.bsky.social/followers?style=plastic)](https://bsky.app/profile/junxd.bsky.social)
 [![Scraps](https://badgen.org/img/zenn/junxd/scraps?style=plastic)](https://zenn.dev/junxd?tab=scraps)
+![Profile Views](https://komarev.com/ghpvc/?username=PlasmaXD&style=flat-square)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlasmaXD&theme=default)
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlasmaXD&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlasmaXD&theme=default) |
@@ -46,4 +47,3 @@ Here are some ideas to get you started:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PlasmaXD&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=PlasmaXD&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PlasmaXD&theme=cobalt&date_format=j%20M%20Y)
-![Profile Views](https://komarev.com/ghpvc/?username=PlasmaXD&style=flat-square)
