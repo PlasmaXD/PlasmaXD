@@ -42,7 +42,7 @@
 </div>
 
 <details>
-<summary>自動生成</summary>
+<summary>autogen</summary>
 
 <!-- Snake（GitHub Actionsで生成したSVGを置く想定） -->
 
