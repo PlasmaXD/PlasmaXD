@@ -39,50 +39,23 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=PlasmaXD&theme=tokyonight&column=7&no-frame=true&no-bg=true" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=PlasmaXD&theme=tokyonight&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/><br/>
+<br/>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlasmaXD&theme=tokyonight" width="100%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlasmaXD&theme=tokyonight" width="100%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlasmaXD&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
-    </td>
-  </tr>
-</table>
+![Most Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PlasmaXD&theme=tokyonight) ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlasmaXD&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlasmaXD&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlasmaXD&theme=tokyonight" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlasmaXD&theme=tokyonight&utcOffset=9" width="100%" />
-    </td>
-  </tr>
-</table>
+<br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlasmaXD&theme=tokyonight&date_format=Y/M/j&hide_border=true" width="100%" />
-    </td>
-    <td align="center" width="50%">
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlasmaXD&theme=tokyonight" width="100%" />
-    </td>
-  </tr>
-</table>
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlasmaXD&theme=tokyonight) ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlasmaXD&theme=tokyonight&utcOffset=9)
 
-<h3>Isometric Activity</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlasmaXD&theme=tokyonight&utcOffset=9" style="display: none;" /> <img src="https://users-box.vercel.app/api/isocalendar?username=PlasmaXD&theme=tokyonight" width="100%" />
+<br/>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PlasmaXD&theme=tokyonight&date_format=Y/M/j&hide_border=true)
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlasmaXD&theme=tokyonight)
+
+![Isometric](https://users-box.vercel.app/api/isocalendar?username=PlasmaXD&theme=tokyonight)
 
 </div>
 
