@@ -42,7 +42,7 @@
 </div>
 
 <details>
-<summary>さらに多角的に見る（自動生成系）</summary>
+<summary>自動生成</summary>
 
 <!-- Snake（GitHub Actionsで生成したSVGを置く想定） -->
 <!--
