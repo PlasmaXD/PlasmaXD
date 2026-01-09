@@ -45,22 +45,22 @@
 <summary>自動生成</summary>
 
 <!-- Snake（GitHub Actionsで生成したSVGを置く想定） -->
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PlasmaXD/PlasmaXD/main/dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PlasmaXD/PlasmaXD/main/dist/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/PlasmaXD/PlasmaXD/main/dist/github-snake.svg" />
 </picture>
--->
+
 
 <!-- 3D Contrib（GitHub Actionsで生成したSVGを置く想定） -->
-<!--
+
 ![3d](https://raw.githubusercontent.com/PlasmaXD/PlasmaXD/main/profile-3d-contrib/profile-night-rainbow.svg)
--->
+
 
 <!-- lowlighter/metrics（生成物を置く想定） -->
-<!--
+
 ![metrics](https://raw.githubusercontent.com/PlasmaXD/PlasmaXD/main/github-metrics.svg)
--->
+
 
 </details>
