@@ -60,7 +60,7 @@
 
 <!-- lowlighter/metrics（生成物を置く想定） -->
 
-![metrics](https://raw.githubusercontent.com/PlasmaXD/PlasmaXD/main/github-metrics.svg)
+![](./metrics/github-metrics.svg)
 
 
 </details>
