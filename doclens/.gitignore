@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+build/
+next-env.d.ts
+*.tsbuildinfo
+
+.env
+.env.local
+.env*.local
+
+.DS_Store
+*.pem
+npm-debug.log*
+
+# Local spike inputs/outputs — never commit real documents
+scripts/samples/
+scripts/out/
+
+# pdf.js assets are copied here by scripts/copy-pdfjs-assets.mjs
+public/pdfjs/
